@@ -1,14 +1,15 @@
-# DDoS Attack Detection using Machine Learning
+# Cybersecurity Attack Data Analysis
 
-A network security machine learning pipeline built on the CICIDS2017 dataset for detecting Distributed Denial of Service (DDoS) attacks.
+An NLP text classification system for cybersecurity attack scenario analysis using TF-IDF feature extraction alongside Naive Bayes and Logistic Regression classifiers.
 
-**Original Repository:** [DDoS-Attack-Detection-using-Machine-Learning](https://github.com/kuldeepsinghyadav177-glitch/DDoS-Attack-Detection-using-Machine-Learning)
+**Original Repository:** [Cybersecurity-Attack-Data-Analysis-](https://github.com/kuldeepsinghyadav177-glitch/Cybersecurity-Attack-Data-Analysis-)
 
 ## Overview
-Distributed Denial of Service (DDoS) attacks pose a significant threat to modern network infrastructure. This project implements a machine learning system to detect and classify DDoS traffic patterns from benign network flow using feature variance filtering, Logistic Regression, and Random Forest models.
+This repository contains an NLP-driven machine learning analysis system designed to categorize and assess cybersecurity attack descriptions and incident data.
 
 ## Key Features
-- **Dataset**: CICIDS2017 network traffic dataset.
-- **Preprocessing**: Feature variance filtering, data cleaning, and normalization.
-- **Algorithms**: Logistic Regression, Random Forest Classifier.
-- **Evaluation**: Accuracy, Precision, Recall, and Confusion Matrix metrics.
+- **TF-IDF Feature Extraction**: Converting textual attack logs/descriptions into numerical vector representations.
+- **Classification Models**:
+  - Naive Bayes Classifier
+  - Logistic Regression Model
+- **Performance Analysis**: Detailed accuracy evaluation and metric reports for security incident categorization.
