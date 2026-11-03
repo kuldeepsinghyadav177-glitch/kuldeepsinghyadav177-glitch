@@ -1,36 +1,14 @@
-# Breast Cancer Prediction
+# DDoS Attack Detection using Machine Learning
 
-A machine learning project that predicts breast cancer malignancy using diagnostic features and classification algorithms such as Logistic Regression, SVM, and Random Forest.
+A network security machine learning pipeline built on the CICIDS2017 dataset for detecting Distributed Denial of Service (DDoS) attacks.
 
-**Original Repository:** [Breast-Cancer-prediction-](https://github.com/kuldeepsinghyadav177-glitch/Breast-Cancer-prediction-)
+**Original Repository:** [DDoS-Attack-Detection-using-Machine-Learning](https://github.com/kuldeepsinghyadav177-glitch/DDoS-Attack-Detection-using-Machine-Learning)
 
 ## Overview
-Breast cancer is one of the most common cancers worldwide. Early and accurate diagnosis is critical for effective treatment. This repository contains machine learning models trained on diagnostic features to classify tumors as **Malignant** or **Benign**.
+Distributed Denial of Service (DDoS) attacks pose a significant threat to modern network infrastructure. This project implements a machine learning system to detect and classify DDoS traffic patterns from benign network flow using feature variance filtering, Logistic Regression, and Random Forest models.
 
 ## Key Features
-- **Data Preprocessing & Feature Scaling**: Standardizing input features for optimal model performance.
-- **Exploratory Data Analysis (EDA)**: Visualizing feature distributions and correlations.
-- **Machine Learning Models**:
-  - Logistic Regression
-  - Support Vector Machine (SVM)
-  - Random Forest Classifier
-- **Model Evaluation**: Metrics including Accuracy, Precision, Recall, F1-Score, and ROC-AUC curve analysis.
-
-## Getting Started
-
-### Prerequisites
-Make sure you have Python 3.x installed along with the following libraries:
-```bash
-pip install numpy pandas scikit-learn matplotlib seaborn
-```
-
-### Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/kuldeepsinghyadav177-glitch/Breast-Cancer-prediction-.git
-   ```
-
-2. Run the training scripts or notebooks to evaluate the models.
-
-## License
-This project is licensed under the MIT License.
+- **Dataset**: CICIDS2017 network traffic dataset.
+- **Preprocessing**: Feature variance filtering, data cleaning, and normalization.
+- **Algorithms**: Logistic Regression, Random Forest Classifier.
+- **Evaluation**: Accuracy, Precision, Recall, and Confusion Matrix metrics.
