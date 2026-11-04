@@ -1,6 +1,6 @@
 # Hi there, I'm Kuldeep Singh Yadav 👋
 
-🎓 **M.Sc. in Artificial Intelligence and Data Science** at **ABV-IIITM Gwalior**  
+🎓 **M.Sc. in Artificial Intelligence and Data Science** at **ABV-IIITM Gwalior**
 💡 Passionate about Machine Learning, Deep Learning, Cybersecurity Analytics, Post-Quantum Cryptography, and Higher Mathematics.
 
 ---
@@ -15,10 +15,12 @@ Here are my core repositories (also organized as branches in this repository):
    - Network security machine learning pipeline built on the CICIDS2017 dataset using feature variance filtering, Logistic Regression, and Random Forest.
 3. **[Cybersecurity Attack Data Analysis](https://github.com/kuldeepsinghyadav177-glitch/Cybersecurity-Attack-Data-Analysis-)** *(Branch: `cybersecurity-attack-analysis`)*
    - NLP text classification system for cybersecurity attack scenario analysis using TF-IDF feature extraction alongside Naive Bayes and Logistic Regression classifiers.
+4. **[CIC-IoT-2023 Anomaly Detection](https://github.com/kuldeepsinghyadav177-glitch/CIC-IoT-2023-prediction-by-Unsupervised-Learning)** *(Branch: `dev`)*
+   - Unsupervised anomaly detection and intrusion analysis on the CIC-IoT-2023 dataset using PCA, K-Means clustering, and Isolation Forest.
 
 ---
 
-## 🛠️ Tech Stack & Interests
+## 🛠 Tech Stack & Interests
 
 - **Languages & Tools:** Python, SQL, Git, Jupyter Notebook, Google Colab
 - **Libraries & Frameworks:** scikit-learn, pandas, NumPy, matplotlib, seaborn, joblib
